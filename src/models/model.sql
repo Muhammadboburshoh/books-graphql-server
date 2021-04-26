@@ -1,4 +1,5 @@
 create database gql_books;
+-- psql -U oodgllyj -p oodgllyj -h queenie.db.elephantsql.com:5432 ::::::dtatabse
 
 \c gql_books
 

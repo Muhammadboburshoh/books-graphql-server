@@ -1,6 +1,7 @@
 const { Pool } = require('pg')
 
 const pool = new Pool({
+  // connectionString: 'postgres://oodgllyj:aiwp6PfVzDRRHNeSs3kSE9qn9Wyrk3UW@queenie.db.elephantsql.com:5432/oodgllyj'
   connectionString: 'postgers://muhammadbobur:1111@localhost:5432/gql_books'
 })
 
